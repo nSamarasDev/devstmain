@@ -1,0 +1,55 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+export const GET_CONTACT = 'GET_CONTACT';
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const CLEAR_CONTACTS = 'CLEAR_CONTACTS';
+export const UPDATE_CONTACT = 'UPDATE_CONTACT';
+export const CONTACT_ERROR = 'CONTACT_ERROR';
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const CLEAR_APPLICATION = 'CLEAR_APPLICATION';
+
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_PROFILES = 'GET_PROFILES';
+export const GET_REPOS = 'GET_REPOS';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+
+export const GET_COMPANY = 'GET_COMPANY';
+export const GET_COMPANIES = 'GET_COMPANIES';
+export const COMPANY_ERROR = 'COMPANY_ERROR';
+export const CLEAR_COMPANY = 'CLEAR_COMPANY';
+
+export const GET_LOADS = 'GET_LOADS';
+export const GET_LOAD = 'GET_LOAD';
+export const CLEAR_LOAD = 'CLEAR_LOAD';
+export const LOAD_ERROR = 'LOAD_ERROR';
+export const UPDATE_LOAD = 'UPDATE_LOAD';
+
+export const GET_APPLICATION = 'GET_APPLICATION';
+export const GET_APPLICATIONS = 'GET_APPLICATIONS';
+export const APPLICATION_ERROR = 'APPLICATION_ERROR';
+
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const UPDATE_APPLICATION = 'UPDATE_APPLICATION';
+export const UPDATE_COMPANY = 'UPDATE_COMPANY';
+
+export const ACCOUNT_DELETED = 'ACCOUNT_DELETED';
+
+export const GET_POSTS = 'GET_POSTS';
+export const GET_POST = 'GET_POST';
+export const ADD_POST = 'ADD_POST';
+export const POST_ERROR = 'POST_ERROR';
+export const UPDATE_LIKES = 'UPDATE_LIKES';
+export const DELETE_POST = 'DELETE_POST';
+
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const REMOVE_COMMENT = 'REMOVE_COMMENT';
