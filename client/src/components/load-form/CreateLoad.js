@@ -46,7 +46,9 @@ const CreateLoad = ({ createLoad, history }) => {
   const onSubmit = (e) => {
     e.preventDefault();
     createLoad(formData, history);
+    
     navigate('/load');
+    
   };
 
   return (
